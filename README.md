@@ -1,4 +1,4 @@
-# 📚 Kuroko Bots — 
+# 📚 Kuroko Bots —
 
 > All Discord bots developed by **Zaw (@zawgoat)**
 >
