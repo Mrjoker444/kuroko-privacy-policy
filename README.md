@@ -11,15 +11,15 @@
 
 | # | Bot Name | Type | Prefix | Slash Commands |
 |---|----------|------|--------|:--------------:|
-| 1 | [Kuroko ザウ Security](#1-kuroko-ザウ-security--moderation-bot) | Moderation & Security | `+` | ✅ |
+| 1 | [Kuroko ザウ](#1-kuroko-ザウ-security--moderation-bot) | Moderation & Security | `+` | ✅ |
 | 2 | [Kuroko Check 🔎](#2-kuroko-check-) | Scanner & Checker | `+` | ✅ |
 | 3 | [Kuroko Logger ♯](#3-kuroko-logger-) | Server Logger | `kk?` | ✅ |
 | 4 | [Kuroko Tracker](#4-kuroko-tracker) | User Tracker | — | ✅ (DM) |
-| 5 | [Kuroko Security (Shield)](#5-kuroko-security-shield--anti-raid-protection) | Anti-Raid Protection | — | ✅ |
-| 6 | [Kuroko Music 🎶](#6-kuroko-music-) | Music Player | `k! / K! / l! / L! / Kuroko! / kuroko!` | ✅ |
-| 7 | [Kuroko Invites 📨](#7-kuroko-invites-) | Invite Tracker | `!` | ✅ |
+| 5 | [Kuroko Security](#5-kuroko-security-shield--anti-raid-protection) | Anti-Raid Protection | — | ✅ |
+| 6 | [Kuroko Music ](#6-kuroko-music-) | Music Player | `k! / K! / l! / L! / Kuroko! / kuroko!` | ✅ |
+| 7 | [Kuroko Invites ](#7-kuroko-invites-) | Invite Tracker | `!` | ✅ |
 | 8 | [Kuroko Limit ✘](#8-kuroko-limit-) | VC Protection | `&` | ✅ (`/vc`) |
-| 9 | [Kuroko Games 🎮](#9-kuroko-games-) | Games & Fun | Configurable | ✅ |
+| 9 | [Kuroko Games ](#9-kuroko-games-) | Games & Fun | Configurable | ✅ |
 | 10 | [Kuroko Pulse ❖](#10-kuroko-pulse--one-tap-voice-bot) | Temp Voice Rooms | `.v` | ✅ |
 
 ---
